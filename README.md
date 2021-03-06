@@ -14,5 +14,5 @@ Al entrar, tienes que loguearte o registrarte. Una vez realizado, puedes navegar
 ## TODO
 - Añadir un diseño algo más atractivo.
 
-## Créditos
+## Licencia
 Eres libre de usar lo que quieras de la aplicación, si te apetece puedes nombrarme, aunque no es obligatorio.
