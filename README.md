@@ -6,6 +6,7 @@ Al entrar, tienes que loguearte o registrarte. Una vez realizado, puedes navegar
 
 ## Tecnologías usadas
 - React
+- Firebase
 - Moment
 
 Todo incluido en el [package.json](https://github.com/Wikijito7/react-firebase/blob/main/package.json)
@@ -13,7 +14,7 @@ Todo incluido en el [package.json](https://github.com/Wikijito7/react-firebase/b
 ## Set up del programa
 
 1. Ejecutar `npm i` en la consola. Posteriormente puedes ejecutar `npm start` para abrir un servidor local donde se ejecutará la aplicación.
-2. Configurar la configuración de [firebase](https://github.com/Wikijito7/react-firebase/blob/main/src/firebase.js).
+2. Configurar la configuración de [Firebase](https://github.com/Wikijito7/react-firebase/blob/main/src/firebase.js).
 3. Acceder a la pestaña _Login_ y crear un nuevo usuario en el caso de no tener. No existe comprobaciones más allá de que no estén los cambios vacíos.
 4. ¡Ya estaría! Puedes acceder a la pestaña de tareas que ha aparecido y añadir tus tareas, modificarlas o borrarlas.
 
