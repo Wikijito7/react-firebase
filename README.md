@@ -4,6 +4,12 @@ Una pequeña aplicación de React conectada a una base de datos de Firebase.
 ## Como funciona
 Al entrar, tienes que loguearte o registrarte. Una vez realizado, puedes navegar a la pestaña de tareas, donde podrás añadir nuevas tareas, modificarlas y eliminarlas.
 
+## Tecnologías usadas
+- React
+- Moment
+
+Todo incluido en el [package.json](https://github.com/Wikijito7/react-firebase/blob/main/package.json)
+
 ## Set up del programa
 
 1. Ejecutar `npm i` en la consola. Posteriormente puedes ejecutar `npm start` para abrir un servidor local donde se ejecutará la aplicación.
